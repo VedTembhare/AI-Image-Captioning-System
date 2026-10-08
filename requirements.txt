@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+pillow
+deep-translator
+gtts
+matplotlib
+pandas
